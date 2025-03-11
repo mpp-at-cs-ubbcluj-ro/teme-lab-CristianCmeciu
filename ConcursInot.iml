@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="ConcursInot" external.linked.project.path="$MODULE_DIR$/ConcursInot" external.root.project.path="$MODULE_DIR$/ConcursInot" external.system.id="GRADLE" external.system.module.group="ro.mpp2024" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/ConcursInot">
+      <excludeFolder url="file://$MODULE_DIR$/ConcursInot/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/ConcursInot/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

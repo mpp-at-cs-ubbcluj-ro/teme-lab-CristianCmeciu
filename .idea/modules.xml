@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConcursInot.iml" filepath="$PROJECT_DIR$/ConcursInot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConcursInot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConcursInot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConcursInot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConcursInot.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Lab1.iml" filepath="$PROJECT_DIR$/.idea/Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
