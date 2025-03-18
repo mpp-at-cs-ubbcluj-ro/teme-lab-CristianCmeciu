@@ -15,8 +15,6 @@ public class CarsDBRepository implements CarRepository{
 
     private JdbcUtils dbUtils;
 
-
-
     private static final Logger logger= LogManager.getLogger();
 
     public CarsDBRepository(Properties props) {

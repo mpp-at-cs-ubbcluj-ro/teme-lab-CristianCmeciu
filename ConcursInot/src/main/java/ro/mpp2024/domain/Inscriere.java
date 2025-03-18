@@ -1,6 +1,6 @@
 package ro.mpp2024.domain;
 
-public class Inscriere{
+public class Inscriere extends Entity<Integer>{
     private Participant idParticipant;
     private Proba idProba;
 

@@ -1,6 +1,6 @@
 package ro.mpp2024.domain;
 
-public class Participant extends Entity<Long> {
+public class Participant extends Entity<Integer> {
     private String nume;
     private int varsta;
 

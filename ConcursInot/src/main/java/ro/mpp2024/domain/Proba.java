@@ -1,6 +1,6 @@
 package ro.mpp2024.domain;
 
-public class Proba extends Entity<Long>{
+public class Proba extends Entity<Integer>{
     private int distanta;
     private String stil;
 
