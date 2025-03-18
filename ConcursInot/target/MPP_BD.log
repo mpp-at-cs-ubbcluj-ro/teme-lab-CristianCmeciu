@@ -1,0 +1,109 @@
+18 Mar 2025 00:15:56,452 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 00:15:56,455 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 82 save - Enter saving task ro.mpp2024.domain.Participant@771a660
+18 Mar 2025 00:15:56,456 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 00:15:56,456 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 00:15:56,456 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 00:15:56,456 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 00:15:56,456 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 00:15:56,582 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2f953efd)
+18 Mar 2025 00:15:56,590 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 93 save - Exit
+18 Mar 2025 00:15:56,590 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 66 findAll - Enter
+18 Mar 2025 00:15:56,590 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 00:15:56,590 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2f953efd)
+18 Mar 2025 00:15:56,592 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 76 findAll - Exit with([ro.mpp2024.domain.Participant@415b0b49])
+18 Mar 2025 08:29:13,216 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:13,219 INFO  ro.mpp2024.Repository.DBRepository.ProbaDBRepository 25 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:13,220 INFO  ro.mpp2024.Repository.DBRepository.InscriereDBRepository 21 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:13,222 TRACE ro.mpp2024.Repository.DBRepository.ProbaDBRepository 78 save - Enter saving task ro.mpp2024.domain.Proba@3527942a
+18 Mar 2025 08:29:13,222 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:29:13,222 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:29:13,222 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:29:13,222 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:29:13,222 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:29:13,344 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12591ac8)
+18 Mar 2025 08:29:20,345 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:20,348 INFO  ro.mpp2024.Repository.DBRepository.ProbaDBRepository 25 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:20,348 INFO  ro.mpp2024.Repository.DBRepository.InscriereDBRepository 21 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:20,350 TRACE ro.mpp2024.Repository.DBRepository.ProbaDBRepository 78 save - Enter saving task ro.mpp2024.domain.Proba@3527942a
+18 Mar 2025 08:29:20,350 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:29:20,350 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:29:20,350 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:29:20,350 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:29:20,351 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:29:20,469 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12591ac8)
+18 Mar 2025 08:29:48,023 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:48,026 INFO  ro.mpp2024.Repository.DBRepository.ProbaDBRepository 25 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:48,027 INFO  ro.mpp2024.Repository.DBRepository.InscriereDBRepository 21 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:29:48,028 TRACE ro.mpp2024.Repository.DBRepository.ProbaDBRepository 78 save - Enter saving task ro.mpp2024.domain.Proba@3527942a
+18 Mar 2025 08:29:48,028 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:29:48,028 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:29:48,028 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:29:48,028 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:29:48,028 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:29:48,144 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@12591ac8)
+18 Mar 2025 08:29:48,152 TRACE ro.mpp2024.Repository.DBRepository.ProbaDBRepository 89 save - Exit
+18 Mar 2025 08:29:48,153 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 66 findAll - Enter
+18 Mar 2025 08:29:48,153 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:29:48,153 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:29:48,153 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:29:48,153 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:29:48,153 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:29:48,155 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5e3f861)
+18 Mar 2025 08:29:48,157 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 76 findAll - Exit with([ro.mpp2024.domain.Participant@4f49f6af])
+18 Mar 2025 08:31:47,199 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:31:47,201 INFO  ro.mpp2024.Repository.DBRepository.ProbaDBRepository 25 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:31:47,202 INFO  ro.mpp2024.Repository.DBRepository.InscriereDBRepository 21 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:31:47,204 TRACE ro.mpp2024.Repository.DBRepository.InscriereDBRepository 37 save - Enter saving task ro.mpp2024.domain.Inscriere@1ed6388a
+18 Mar 2025 08:31:47,204 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:31:47,204 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:31:47,205 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:31:47,205 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:31:47,205 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:31:47,328 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@38145825)
+18 Mar 2025 08:31:47,335 TRACE ro.mpp2024.Repository.DBRepository.InscriereDBRepository 48 save - Exit
+18 Mar 2025 08:31:47,336 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 106 findParticipantiByProba - Enter
+18 Mar 2025 08:31:47,336 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:31:47,336 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:31:47,336 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:31:47,336 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:31:47,337 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:31:47,338 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@49b2a47d)
+18 Mar 2025 08:31:47,340 ERROR ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 114 findParticipantiByProba - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: I.idParticipanti)
+18 Mar 2025 08:31:47,340 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 117 findParticipantiByProba - Exit with([])
+18 Mar 2025 08:32:09,236 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:32:09,239 INFO  ro.mpp2024.Repository.DBRepository.ProbaDBRepository 25 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:32:09,240 INFO  ro.mpp2024.Repository.DBRepository.InscriereDBRepository 21 <init> - Initializing ro.mpp2024.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:32:09,241 TRACE ro.mpp2024.Repository.DBRepository.InscriereDBRepository 37 save - Enter saving task ro.mpp2024.domain.Inscriere@1ed6388a
+18 Mar 2025 08:32:09,241 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:32:09,241 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:32:09,241 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:32:09,242 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:32:09,242 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:32:09,358 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@38145825)
+18 Mar 2025 08:32:09,365 TRACE ro.mpp2024.Repository.DBRepository.InscriereDBRepository 48 save - Exit
+18 Mar 2025 08:32:09,365 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 106 findParticipantiByProba - Enter
+18 Mar 2025 08:32:09,365 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:32:09,365 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:32:09,365 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:32:09,365 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:32:09,365 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:32:09,366 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@49b2a47d)
+18 Mar 2025 08:32:09,369 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 117 findParticipantiByProba - Exit with([ro.mpp2024.domain.Participant@78452606])
+18 Mar 2025 08:33:02,364 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:33:02,368 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 106 findParticipantiByProba - Enter
+18 Mar 2025 08:33:02,368 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:33:02,368 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:33:02,368 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:33:02,368 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:33:02,368 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:33:02,486 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6cd24612)
+18 Mar 2025 08:33:02,490 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 117 findParticipantiByProba - Exit with([ro.mpp2024.domain.Participant@29f7cefd])
+18 Mar 2025 08:40:53,176 INFO  ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 25 <init> - Initializing ro.mpp2024.ParticipantDBRepository with properties: {jdbc.url=jdbc:sqlite:ConcursInot.db} 
+18 Mar 2025 08:40:53,183 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 106 findParticipantiByProba - Enter
+18 Mar 2025 08:40:53,183 TRACE ro.mpp2024.Utils.JdbcUtils 46 getConnection - Enter
+18 Mar 2025 08:40:53,183 TRACE ro.mpp2024.Utils.JdbcUtils 23 getNewConnection - Enter
+18 Mar 2025 08:40:53,183 INFO  ro.mpp2024.Utils.JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:ConcursInot.db
+18 Mar 2025 08:40:53,184 INFO  ro.mpp2024.Utils.JdbcUtils 29 getNewConnection - user: null
+18 Mar 2025 08:40:53,184 INFO  ro.mpp2024.Utils.JdbcUtils 30 getNewConnection - pass: null
+18 Mar 2025 08:40:53,398 TRACE ro.mpp2024.Utils.JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6cd24612)
+18 Mar 2025 08:40:53,412 TRACE ro.mpp2024.Repository.DBRepository.ParticipantDBRepository 117 findParticipantiByProba - Exit with([ro.mpp2024.domain.Participant@29f7cefd])
